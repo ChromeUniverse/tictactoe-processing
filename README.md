@@ -8,7 +8,7 @@ Steps completed:
 
 Stupid quote of the Day:
 
-> "We are all born ignorant, but one must work hard to remain stupid" - Benjamin Franklin
+> *"We are all born ignorant, but one must work hard to remain stupid"* - Benjamin Franklin
 
 ### Contributors/Developers:
 
