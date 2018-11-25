@@ -4,9 +4,13 @@
 
 A simple game of Tic Tac Toe written in Processing with Python code.
 
-Steps completed:
+### Steps completed:
 
-Stupid quote of the Day:
+* Python terminal version
+
+### Yet to complete:
+
+### Stupid quote of the Day:
 
 > *"We are all born ignorant, but one must work hard to remain stupid"* - Benjamin Franklin
 
