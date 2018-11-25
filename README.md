@@ -15,6 +15,6 @@ A simple game of Tic Tac Toe written in Processing with Python code.
 
 Lucca Rodrigues - 'ChromeUniverse'
 
-#### Stupid quote of the day :P
+##### Stupid quote of the day :P
 
 > *"We are all born ignorant, but one must work hard to remain stupid"* - Benjamin Franklin
