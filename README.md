@@ -10,11 +10,11 @@ A simple game of Tic Tac Toe written in Processing with Python code.
 
 ### Yet to complete:
 
-### Stupid quote of the Day:
-
-> *"We are all born ignorant, but one must work hard to remain stupid"* - Benjamin Franklin
 
 ### Contributors/Developers:
 
 Lucca Rodrigues - 'ChromeUniverse'
 
+#### Stupid quote of the day :P
+
+> *"We are all born ignorant, but one must work hard to remain stupid"* - Benjamin Franklin
