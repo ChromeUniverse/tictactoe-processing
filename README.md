@@ -1,5 +1,9 @@
 # Welcome to the tictactoe-processing repository
 
+Update 16 June 2019 - Project Deprecated
+
+This repo won't be updated in the foreseeable future.
+
 ### Tic Tac Toe with Processing.py
 
 A simple game of Tic Tac Toe written in Processing with Python code.
